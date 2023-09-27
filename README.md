@@ -82,7 +82,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashuvaishnav&" alt="yashuvaishnav" /></p>
    <hr>
    </p
- <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?     username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+ <p align="center"<a href="#"><img alt="yash" src="https://activity-graph.herokuapp.com/graph?     username=yashuvaishnav&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
  
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
