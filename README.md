@@ -17,7 +17,7 @@
 
 - 📫 How to reach me <b>yashurishu22@gmail.com</b>
 
-- 📄 Know about my work in my <b><a href="" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1jEpup5-x3NRz8ZQ1zkYjLRRcWIpjXs0k/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - I am creative person and I love nature!
    <hr>
