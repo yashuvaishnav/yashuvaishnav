@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at <b><a href="http://localhost:3000/" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="http://yashuvaishnav.github.io" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about MERN stack
 
