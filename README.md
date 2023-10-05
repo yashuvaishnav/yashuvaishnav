@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at <b><a href="http://yashuvaishnav.github.io/" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at [Portfolio](https://yashuvaishnav.github.io/)
 
 - 💬 Ask me about MERN stack
 
@@ -67,7 +67,7 @@
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
      <br />
      <br />
-[Porfolio](https://yashuvaishnav.github.io/)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yash-vaishnav-b55473261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashuvaishnav" height="30" width="40" /></a>
